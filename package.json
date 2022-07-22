@@ -11,7 +11,7 @@
     "yarn": "1.22.18",
     "node": "16.15.0"
   },
-  "devDependencies": {
+  "dependencies": {
     "nuxt": "3.0.0-rc.5"
   }
 }
