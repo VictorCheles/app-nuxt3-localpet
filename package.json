@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview"
+  },
+  "engines": {
+    "yarn": "1.22.18",
+    "node": "16.15.0"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.5"
+  }
+}
