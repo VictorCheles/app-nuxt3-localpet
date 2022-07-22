@@ -1,5 +1,5 @@
 <template>
   <NuxtLayout>
-    some page content
+    VICTOR FERREIRA CHELES
   </NuxtLayout>
 </template>
